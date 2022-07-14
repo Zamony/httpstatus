@@ -1,6 +1,8 @@
 A simple package that helps to convert http code to its type. Example:
 
-```
+```go
+package main
+
 import (
     "fmt"
     "net/http"
